@@ -2,7 +2,7 @@ Welcome!
 
 LA Metro Helper is a tiny desktop app that helps you track arrival times for Metro stations.
 
-## Installation
+### Installation
 
 Download the latest release here: https://github.com/nloui/LA-Metro-Helper/releases
 
