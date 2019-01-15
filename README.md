@@ -18,3 +18,5 @@ Add the stations you want to track.
 ### Suggestions / Bugs
 
 Create an issue in this repo
+
+PS - If you like this project and have an interest in civic tech, check out what we're building at [CivicFeed](https://www.civicfeed.com/)
