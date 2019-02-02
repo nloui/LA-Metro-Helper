@@ -1,0 +1,9 @@
+{
+  "extends": ["standard", "standard-react"],
+  "rules": {
+    "camelcase": 0,
+    "indent": 0,
+    "jsx-indent-props": 0,
+    "standard/computed-property-even-spacing": 0
+  }
+}
